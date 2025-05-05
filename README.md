@@ -5,7 +5,7 @@ Presentación de mis proyectos con JAVA SE versión 18
 Interfaz del programa 
 
 
-![Logo]https://github.com/jenni-gonzalez1/Portafolio-de-Java/blob/main/portafolio.png?raw=true
+![Logo] (https://github.com/jenni-gonzalez1/Portafolio-de-Java/blob/main/portafolio.png?raw=true)
 
 
 ## Instrucciones
